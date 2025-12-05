@@ -1,2 +1,25 @@
-# DS-Adv_GenAI_-Basic-Python-Programming-_Task_01
-This repository contains Task 01 from the Data Science &amp; Advanced Generative AI (GenAI) program, focused on building a strong foundation in Basic Python Programming.
+🚀 What This Project Covers
+
+Python variables and data types
+
+Conditional statements (if, elif, else)
+
+Loops (for, while)
+
+Functions
+
+Basic input/output operations
+
+Logical problem-solving using Python
+
+🛠️ Technologies Used
+
+Python
+
+Jupyter Notebook
+
+✅ Ideal For
+
+Beginners in Python
+
+Students learning Data Science
